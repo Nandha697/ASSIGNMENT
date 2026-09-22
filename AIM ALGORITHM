@@ -1,0 +1,12 @@
+OBJECTIVE: 
+To implement a Java program using inheritance and method overriding by creating a Plan class and extending it with a PostpaidPlan class. 
+ALGORITHM: 
+1.Start the program. 
+2. Create a Plan class with planName and dataLimitGB. 
+3. Define a constructor to initialize these attributes. 
+4. Create PostpaidPlan as a subclass of Plan. 
+5. Add billingCycle to PostpaidPlan. 
+6. Override the display() method in PostpaidPlan. 
+7. Create a PostpaidPlan object. 
+8. Display all plan details.
+9. Stop the program. 
